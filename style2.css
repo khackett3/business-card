@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.propic{
+    width: 150px;
+}
+.card{
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 3px;
+    border-bottom: 5px solid red;
+    background: lightgray;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.blueborder{
+    border: 1px dotted blue;
+}
+.info{
+    text-align: center;
+}
